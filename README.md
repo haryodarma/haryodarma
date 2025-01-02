@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haryo Darma Putra</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haryodarma&label=Profile%20views&color=0e75b6&style=flat" alt="haryodarma" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haryodarma" alt="haryodarma" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and JavaScript**
@@ -15,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ryodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ryodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haryo darma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haryo darma" height="30" width="40" /></a>
 <a href="https://instagram.com/ryodrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryodrma" height="30" width="40" /></a>
 <a href="https://discord.gg/ryo desu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ryo desu" height="30" width="40" /></a>
 </p>
