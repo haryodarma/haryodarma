@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haryo Darma Putra</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
+<img align="right" alt="Haryo Ngoding" width="400" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haryodarma&label=Profile%20views&color=0e75b6&style=flat" alt="haryodarma" /> </p>
 
 - 🌱 I’m currently learning **Flutter and JavaScript**
@@ -10,8 +12,6 @@
 - 📫 How to reach me **haryo.darmap@gmail.com**
 
 - ⚡ Fun fact **I Love Talk About Technoligies**
-
-<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhappy-programmers-day&psig=AOvVaw3S6J7-7r0YbyhUu-tGmVWB&ust=1735863247140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJizy9Pg1YoDFQAAAAAdAAAAABAE" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
