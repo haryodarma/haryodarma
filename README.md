@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I Love Talk About Technoligies**
 
+<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhappy-programmers-day&psig=AOvVaw3S6J7-7r0YbyhUu-tGmVWB&ust=1735863247140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJizy9Pg1YoDFQAAAAAdAAAAABAE" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ryodrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryodrma" height="30" width="40" /></a>
