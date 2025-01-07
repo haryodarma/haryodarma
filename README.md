@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, React, and Laravel**
 
-- 💬 Ask me about **Android and React**
+- 💬 Ask me about **Android and Web**
 
 - 📫 How to reach me **haryo.darmap@gmail.com**
 
