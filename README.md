@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **haryo.darmap@gmail.com**
 
-- ⚡ Fun fact **I Love Talk About Technoligies**
+- ⚡ Fun fact, **I Love Talk About Technoligies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
