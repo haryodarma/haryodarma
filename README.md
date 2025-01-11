@@ -3,7 +3,7 @@
 
 <img align="right" alt="Haryo Ngoding" width="400" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haryodarma&label=Profile%20views&color=0e75b6&style=flat" alt="haryodarma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haryodarma&label=Profile%20views&color=0e75b6&style=flat" alt="haryodrma" /> </p>
 
 - 🌱 I’m currently learning **Flutter, React, and Laravel**
 
