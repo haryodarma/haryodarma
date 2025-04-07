@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haryodarma&label=Profile%20views&color=0e75b6&style=flat" alt="HaryoDarma" /> </p>
 
-- 🌱 I’m currently learning **Python, NodeJS and Linux Server**
+- 🌱 I’m currently learning **Fullstack Web Development with JS/TS**
 
-- 💬 Ask me about **Android and Web**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **haryo.darmap@gmail.com**
 
